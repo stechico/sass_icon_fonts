@@ -119,8 +119,8 @@ Dev notes
 Acknowledgements
 ----------------
 
-Thanks to Rico for starting this. Here's [his original Github project](http://github.com/rstacruz/sass_icon_fonts)
+Files in this repo (Sass stylesheets, build script, reference HTML) all (c) 
+  2013, Rico Sta Cruz, released under the MIT License.
 
-Files in this repo (Sass stylesheets, build script, reference HTML) all (c) 2013, Rico Sta Cruz, released under the MIT License.
-
-Actual font files are not part of this project, and are available in their respective licenses.
+Actual font files are not part of this project, and are available in their 
+respective licenses.
